@@ -1,0 +1,2 @@
+# 16-bit-MIPS-Like-Pipelined-CPU-Design-and-Implementation
+End-to-end CPU design: custom 16-bit MIPS-style ISA + Perl two-pass assembler; VHDL RTL for single-cycle and 5-stage pipeline (hazard detect/forwarding, 2-bit predictor); synthesized &amp; P&amp;R on FPGA with behavioral/post-synth/post-layout verification; ~3× speedup (≈260 ps vs 780 ps).
